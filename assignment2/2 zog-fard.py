@@ -18,6 +18,9 @@ while (x)!=0 :
 print( "tedad adad fard: ", fard ,'tedad adad zog :',zog )
 
 if(fard>zog):
-    print("tedad adadfard bishtar ast")
+    print("tedad adad fard bishtar ast")
+elif(fard==zog):
+        print("tedad adad fard ba tedad adadzoj barabar ast")
+
 else:
     print("tedad adad zohg bishtar ast")
