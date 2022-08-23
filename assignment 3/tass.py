@@ -9,8 +9,9 @@ while True:
     print(x)
     sum+=x
     count+=1
-    if x==6:
-
-        break 
+    if x!=6:
+        break
+    else:
+        continue 
 print(sum)
 print("tedad tekrar rikhtan tass:  ",count)
